@@ -1,4 +1,4 @@
-🇳🇦 NAMIBIA INFO WIDGET PROJECT
+NAMIBIA INFO WIDGET PROJECT
 📘 OVERVIEW
 The Namibia Info Widget is a functional and responsive web application designed to display local weather, Namibian public holidays, a real-time clock, and a markable calendar with notes.
 It uses the OpenWeatherMap API to fetch live weather data for Namibian cities, includes a dark and light mode, and uses emojis to highlight weekends, holidays, and notes.
